@@ -107,5 +107,5 @@ Here are some basic capture filters:
 | src port 1234            | The source port must be 1234; the transport protocol does not matter.                        |
 | src net 192.168.1.0/24   | The source IP address must be in the specified network.                                      |
 | host 192.168.45.65       | All the packets from or to the specified host.                                               |
-| host www.examplehost.com | All the packets from or to the specified hostname.                                           |
+| host www.example.com | All the packets from or to the specified hostname.                                           |
 
